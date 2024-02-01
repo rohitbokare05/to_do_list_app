@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1009399265208",
+    "project_id": "ecommerce-app-d69a4",
+    "storage_bucket": "ecommerce-app-d69a4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1009399265208:android:be00ca62c13c66843f014d",
+        "android_client_info": {
+          "package_name": "com.example.coffe_brew_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6qXZlyG4F22uPn1dz-nko8epsVutYI6s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
